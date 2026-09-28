@@ -1,0 +1,4 @@
+[project]
+name = "climate-bond-index"
+version = "0.1.0"
+requires-python = ">=3.11"

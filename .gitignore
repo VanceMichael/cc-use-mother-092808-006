@@ -10,3 +10,5 @@ __pycache__/
 *.sqlite
 *.sqlite3
 .DS_Store
+.state-*.tmp
+*_state.json
